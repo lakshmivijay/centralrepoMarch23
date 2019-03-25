@@ -1,4 +1,3 @@
-
 import java.io.*;
 class Helloworld
  {
@@ -6,6 +5,5 @@ class Helloworld
   {
   System.out.println("Hello Class");
   }
-
  Helloworld h = new Helloworld();
    }
